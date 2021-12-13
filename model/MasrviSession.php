@@ -10,7 +10,7 @@ class MasrviSession
     /**
      * @var string Url de paiement
      */
-    public static $masrviUrl = 'https://masrviapp.mr';
+    public static $masrviUrl = 'https://masrviapp.mr/online/online.php';
 
     /**
      * Methode qui appel masrvi et recupere le sessionID
