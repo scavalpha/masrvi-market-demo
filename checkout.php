@@ -65,7 +65,7 @@ include("header.php");
                                         <input type="hidden" name="currency" value="929">
                                         <input type="hidden" name="brand" value="bmci">
                                         <input type="submit" class="btn btn-main mt-20" value="Paiement">
-                                        <!--                              <a href="confirmation.html" class="btn btn-main mt-20">Place Order</a >-->
+
                                     </form>
                                 </div>
                             </div>
