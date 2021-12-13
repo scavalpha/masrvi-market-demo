@@ -10,7 +10,7 @@ class MasrviSession
     /**
      * @var string Url de paiement
      */
-    public static $masrviUrl = 'https://22201.tagpay.fr/online/online.php';
+    public static $masrviUrl = 'https://masrviapp.mr';
 
     /**
      * Methode qui appel masrvi et recupere le sessionID
